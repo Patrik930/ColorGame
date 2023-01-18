@@ -20,3 +20,8 @@ Parancssorban PAT-al:
 
 - Ellenőrzés:
     - **git status**
+
+- létrehozunk a GitHub-on egy repot
+- PAT használva összekapcsoljuk a   GitHub-on létrehozott repoval
+
+
