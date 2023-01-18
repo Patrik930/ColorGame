@@ -11,3 +11,12 @@ Parancssorban PAT-al:
 
 - Ha van elmenteni való akkor előkészítjük a színpadra(stage):
     - **git add .**
+
+- Ellenőrzés:
+    - **git status**
+
+- Elementjük a helyi repoba(commitoljuk):
+    - **git commit -m "First Commit"**
+
+- Ellenőrzés:
+    - **git status**
