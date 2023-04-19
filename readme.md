@@ -24,7 +24,7 @@ Parancssorban PAT-al:
 - létrehozunk a GitHub-on egy repot
 - PAT használva összekapcsoljuk a   GitHub-on létrehozott repoval
 
-- feltesszük a távoli repoba(ez csak első pushkor kell)
+- feltesszük a távoli repoba(ez csak első pushkor kell utána csak git push)
     - **git push -u origin master**
 
 [Color Game](https://patrik930.github.io/ColorGame/)
